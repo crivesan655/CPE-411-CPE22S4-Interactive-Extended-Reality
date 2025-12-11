@@ -25,6 +25,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 2.  "AI Project" - still on hold, currently in learning phase.
  
 ## Socials
+<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/86be5fcf-53dd-4669-b872-4c7975c3a687" />
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/35d9d6cd-a950-49f5-a9c3-812891822820" /> 
 
