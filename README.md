@@ -1,7 +1,7 @@
 <p align='center'> "𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖, 𝕕𝕖𝕒𝕣 𝕘𝕚𝕥𝕙𝕦𝕓 𝕖𝕩𝕡𝕝𝕠𝕣𝕖𝕣!👋" </p>
 
 
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f21a9150-ad90-4b34-8507-7700698c2dd4" />
+<img width="1000" height="400" alt="image" src="Assets/aesthetic-wallpaper-anime.gif" />
 
 
 ## ABOUT ME 
