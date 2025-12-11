@@ -25,7 +25,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 2.  "AI Project" - still on hold, currently in learning phase.
  
 ## Socials
-![Alt text for the GIF](<div class="tenor-gif-embed" data-postid="5332780545471097334" data-share-method="host" data-aspect-ratio="1.2" data-width="100%"><a href="https://tenor.com/view/grant-yapping-lucky-star-speech-bubble-gif-5332780545471097334">Grant Yapping Sticker</a>from <a href="https://tenor.com/search/grant-stickers">Grant Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
-
+https://media.tenor.com/SgHXpt3rKfYAAAAi/grant-yapping.gif
 
