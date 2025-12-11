@@ -1,7 +1,7 @@
 # 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖, 𝕕𝕖𝕒𝕣 𝕘𝕚𝕥𝕙𝕦𝕓 𝕖𝕩𝕡𝕝𝕠𝕣𝕖𝕣!👋
 
 
-<img width="1100" height="400" alt="image" src="https://github.com/user-attachments/assets/f21a9150-ad90-4b34-8507-7700698c2dd4" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f21a9150-ad90-4b34-8507-7700698c2dd4" />
 
 
 ## ABOUT ME 
@@ -24,4 +24,4 @@ My main language that I most proficient on is C++ and I dream to create my own A
 1. "Visual Novel Game" - currently started the second phase which is perfecting basic requirements such as art,story and systems, No coding has been done for now.
 2.  "AI Project" - still on hold, currently in learning phase.
  
-#### This is a compilation repository of all my activities in this course
+## Socials
