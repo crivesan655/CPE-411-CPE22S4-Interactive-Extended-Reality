@@ -13,7 +13,7 @@ My main language that I most proficient on is C++ and I dream to create my own A
 ## Current Skills <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
 
 1. C++ 
-2. Python
+2. Python 
 3. C
 4. C#
 
@@ -25,3 +25,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 2.  "AI Project" - still on hold, currently in learning phase.
  
 ## Socials
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/35d9d6cd-a950-49f5-a9c3-812891822820" /> 
+
