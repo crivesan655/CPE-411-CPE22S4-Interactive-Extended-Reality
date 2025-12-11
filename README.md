@@ -25,6 +25,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 2.  "AI Project" - still on hold, currently in learning phase.
  
 ## Socials
-![alt text](Assets/anime-gilr.gif)
+<img src="Assets/anime-gilr.gif" alt="Alt text" width="30" height="30" />
 
 
