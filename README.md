@@ -1,5 +1,9 @@
 # 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖, 𝕕𝕖𝕒𝕣 𝕘𝕚𝕥𝕙𝕦𝕓 𝕖𝕩𝕡𝕝𝕠𝕣𝕖𝕣!👋
 
+
+<img width="540" height="353" alt="image" src="https://github.com/user-attachments/assets/f21a9150-ad90-4b34-8507-7700698c2dd4" />
+
+
 ## ABOUT ME 
 My Name is Lester Arvid P. Anastacio also know as Crivesan, I am 20 years old and 
 Im a Computer Engineering Student (CPE) that is currently studying at Technological Institute of the Philippines (TIP) 🧑🏻‍🎓
