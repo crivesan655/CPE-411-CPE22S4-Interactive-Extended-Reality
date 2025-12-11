@@ -11,7 +11,7 @@ My main language that I most proficient on is C++ and I dream to create my own A
 
 
 ## Current Skills <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
-https://commons.wikimedia.org/wiki/File:C_Logo.png
+<img alt="image" srs="https://commons.wikimedia.org/wiki/File:C_Logo.png" />
 https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg
 https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg
 https://en.wikipedia.org/wiki/Python_%28programming_language%29
