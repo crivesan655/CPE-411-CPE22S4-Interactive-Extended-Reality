@@ -10,7 +10,7 @@ I'm a Computer Engineering Student (CPE) that is currently studying at Technolog
 My main language that I most proficient on is C++ and I dream to create my own AI systems in the future!
 
 
-## Current Skills <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
+## Current Skills <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
 
 1. C++ 
 2. Python 
@@ -24,7 +24,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 1. "Visual Novel Game" - currently started the second phase which is perfecting basic requirements such as art,story and systems, No coding has been done for now.
 2.  "AI Project" - still on hold, currently in learning phase.
  
-## Socials
-<img src="Assets/anime-gilr.gif" alt="Alt text" width="70" height="70" />
+## Socials <img src="Assets/anime-gilr.gif" alt="Alt text" width="70" height="70" />
 
 
