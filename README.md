@@ -5,8 +5,8 @@
 
 
 ## ABOUT ME 
-My Name is Lester Arvid P. Anastacio also know as Crivesan, I am 20 years old and 
-Im a Computer Engineering Student (CPE) that is currently studying at Technological Institute of the Philippines (TIP) 🧑🏻‍🎓
+My Name is Lester Arvid P. Anastacio also known as Crivesan, I am 20 years old and 
+I'm a Computer Engineering Student (CPE) that is currently studying at Technological Institute of the Philippines (TIP) 🧑🏻‍🎓
 My main language that I most proficient on is C++ and I dream to create my own AI systems in the future!
 
 
