@@ -24,6 +24,6 @@ My main language that I most proficient on is C++ and I dream to create my own A
 1. "Visual Novel Game" - currently started the second phase which is perfecting basic requirements such as art,story and systems, No coding has been done for now.
 2.  "AI Project" - still on hold, currently in learning phase.
  
-## Socials <img src="Assets/anime-gilr.gif" alt="Alt text" width="40" height="40" />
+## Socials <img src="Assets/anime-gilr.gif" alt="Alt text" width="30" height="30" />
 
 
