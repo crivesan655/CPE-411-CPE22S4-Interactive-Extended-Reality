@@ -26,5 +26,4 @@ My main language that I most proficient on is C++ and I dream to create my own A
  
 ## Socials
 
-https://media.tenor.com/SgHXpt3rKfYAAAAi/grant-yapping.gif
 
