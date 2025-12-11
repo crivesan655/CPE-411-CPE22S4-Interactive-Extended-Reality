@@ -11,10 +11,7 @@ My main language that I most proficient on is C++ and I dream to create my own A
 
 
 ## Current Skills <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
-<img width="50" height="50" alt="image" src="Assets/C_Logo.png" />
-<img width="50" height="50" alt="image" src="Assets/ISO_C++_Logo.svg.png" />
-<img width="50" height="50" alt="image" src="Assets/Logo_C_sharp.svg.png" />
-<img width="50" height="50" alt="image" src="Assets/Python-logo-notext.svg.png" />
+<img width="50" height="50" alt="image" src="Assets/C_Logo.png" /><img width="50" height="50" alt="image" src="Assets/ISO_C++_Logo.svg.png" /><img width="50" height="50" alt="image" src="Assets/Logo_C_sharp.svg.png" /><img width="50" height="50" alt="image" src="Assets/Python-logo-notext.svg.png" />
 
 ## Status ✅
 -- Currently taking the Human-Computer Interaction Track Elective --
