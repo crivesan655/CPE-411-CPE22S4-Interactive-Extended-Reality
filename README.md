@@ -6,7 +6,7 @@ Im a Computer Engineering Student (CPE) that is currently studying at Technologi
 My main language that I most proficient on is C++ and I dream to create my own AI systems in the future!
 
 
-## Current Skills <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
+## Current Skills <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/663cc40d-ce47-430a-904c-e38b22d6a2f4" />
 
 1. C++ 
 2. Python
