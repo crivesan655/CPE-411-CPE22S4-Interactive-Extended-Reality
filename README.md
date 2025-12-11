@@ -3,8 +3,19 @@
 ## ABOUT ME 
 My Name is Lester Arvid P. Anastacio also know as Crivesan, I am 20 years old and 
 Im a Computer Engineering Student (CPE) that is currently studying at Technological Institute of the Philippines (TIP) 🧑🏻‍🎓
+My main language that I most proficient on is C++ and I dream to create my own AI systems in the future!
 
 ## Current Skills
+1. C++ 
+2. Python
+3. C
+4. C#
 
+## Status
+-- Currently taking the Human-Computer Interaction Track Elective --
+
+## Planned Projects
+1. "Visual Novel Game" - currently started the second phase which is perfecting basic requirements such as art,story and systems, No coding has been done for now.
+2.  AI Project - still on hold, currently in learning phase.
  
-#### This is a compilation of all my activities in this course
+#### This is a compilation repository of all my activities in this course
